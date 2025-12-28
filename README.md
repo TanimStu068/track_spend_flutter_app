@@ -1,6 +1,6 @@
 # TrackSpend – Personal Finance & Expense Tracker
 
-applogo 
+![App Logo](assets/icon/app_icon.png)  
 
 TrackSpend is a full-featured Flutter app that helps users manage their personal finances effectively. It provides an intuitive interface to track income, budget, and expenses, along with insightful analytics and visualizations.  
 
