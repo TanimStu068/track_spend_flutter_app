@@ -51,6 +51,12 @@ TrackSpend is a full-featured Flutter app that helps users manage their personal
 - **Delete Account** option to remove account and data from Firebase.
 
 ---
+screenshots 
+ ![image5](assets/images/expensetrackerappimage3.png)
+![image5](assets/images/expensetrackerappimage1.png)
+![image5](assets/images/expensetrackerappimage4.png)
+![image5](assets/images/expensetrackerappimage2f.png)
+
 
 ## Technology Stack
 - **Flutter** – Cross-platform mobile framework.
